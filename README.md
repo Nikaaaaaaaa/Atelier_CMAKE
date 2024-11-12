@@ -63,6 +63,8 @@ add_test(t4 src/calculator div 1 5)
 ```
 
 Vous pouvez observer le résutat de vos tests dans les logs de votre Action :  
+
+  Test Test
   
 ![Screenshot of Action's log](Compilation.png)  
 **Travail demandé**  
