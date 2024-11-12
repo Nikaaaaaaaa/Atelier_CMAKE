@@ -71,6 +71,7 @@ Créer votre première Action GitHub et observez le résultat dans les logs de v
 **Notions acquises de cette séquence**    
 Vous avez vu dans cette séquence comment créer des Actions GiHUB pour automatiser vos tests.  
 Dans le script que nous venons de voir à l'instant, celui-ci compile le code C dans un premier temps puis exécute une série de tests présent dans le fichier CMakeLists.txt via la commande make test. A noter que tout les fichiers .yml déposés dans le répertoire .github/workflows/ de votre projet seront systématiquement exécutés à chaque Commit réalisé.    
+Test
 
 ---------------------------------------------------------------------------------------------
 Séquence 3 : Exercice 1
